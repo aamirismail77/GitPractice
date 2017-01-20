@@ -1,4 +1,4 @@
-function log() {
-    console.log("This is the first file")
+function log(str) {
+    console.log(str)
 }
-log();
+log("This is the first file");
